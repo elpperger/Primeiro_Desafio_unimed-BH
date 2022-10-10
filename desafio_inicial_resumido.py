@@ -21,7 +21,6 @@ num_med = int(valores[0]) / int(valores[1])
 print(f"{num_med:,.2f}")
 
 
-
 ######### Desafio do cálculo de viagem - somente cálculo #########
 
 valores = input().split()
